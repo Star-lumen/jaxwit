@@ -3,7 +3,7 @@
 This is a group for women who are involved in all aspects of technology (IT, Engineering, health, education, etc.). We welcome all levels of professionals whether you are a business owner, employee or manager we would love to have you join us for our luncheons, evening presentations and discussions! This is a place for professionals to collaborate, learn, share ideas, work through issues, feel supported and reinforced by others in the industry!
 
 # Meetings
-We meet the second Tuesday of the month at Keiser University, usually in the auditorium. Their address is 6430 Southpoint Pkwy Suite 100, Jacksonville, FL 32216.
+We meet quarterly on the first thursday of the month at Keiser University, usually in the auditorium. Their address is 6430 Southpoint Pkwy Suite 100, Jacksonville, FL 32216.
 
 We also have monthly luncheons (2nd or3rd Friday of the month, venue pending) announced on our Meetup and other Social Media Pages (see below).
 
@@ -11,10 +11,9 @@ We also have monthly luncheons (2nd or3rd Friday of the month, venue pending) an
 We are on Meetup! Join the group at [https://www.meetup.com/jax-women-in-technology/](https://www.meetup.com/jax-women-in-technology/)
 
 # LinkedIn
-Join the LinkedIn Group [https://www.linkedin.com/groups/13009713](https://www.linkedin.com/groups/13009713)
+Join the LinkedIn Group [https://www.linkedin.com/groups/12849222](https://www.linkedin.com/groups/12849222)
 
 # Discord
-Discord is the best place to get information about our meetings. 
 Join our discord at [https://discord.gg/bj2DRUGrmg](https://discord.gg/bj2DRUGrmg) 
 
 # Facebook (Public)
